@@ -54,7 +54,6 @@ export const colors = {
 
   heatmap: {
     empty: "#E5EEFF",
-    scheduledMissed: "#F3D9CE",
     checkedIn: "#006C49",
   },
 

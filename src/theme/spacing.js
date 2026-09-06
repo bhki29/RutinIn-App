@@ -22,7 +22,7 @@ export const shadow = {
     shadowOffset: { width: 0, height: 4 },
     shadowOpacity: 0.06,
     shadowRadius: 12,
-    elevation: 3,
+    elevation: 4,
   },
   card: {
     shadowColor: "#12261F",
